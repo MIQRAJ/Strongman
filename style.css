@@ -1,0 +1,13 @@
+h2{
+    color:black;
+}
+div {
+    background-color: blue;
+    color: white;
+}
+p{
+    color:antiquewhite;
+}
+ul{
+    list-style-type: disc;
+}

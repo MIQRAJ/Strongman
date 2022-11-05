@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 120%;
+}
+.nav_menu{
+    overflow: hidden;
+    background-color: #333;
+}
+.nav_menu a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.nav_menu a:hover{
+    background-color: wheat;
+    color: red;
+}
+#logo{
+    float: left;
+    padding: none;
+    margin: none;
+    height: 30px;
+    width: 20%;
+}
+#logo img{
+    width: 50%;
+    float: left;
+    padding: 10px 0px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: goldenrod
+}
+h3{
+    text-align: left;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
